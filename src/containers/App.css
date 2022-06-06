@@ -1,0 +1,18 @@
+hr {
+  border-image: linear-gradient(to right, rgb(239, 255, 9), rgb(255, 0, 0)) 1;
+}
+input {
+  color: #566ea39b;
+}
+.scrollBar::-webkit-scrollbar-track {
+  background: #00000017;
+  border-radius: 16px;
+  margin: 4px 0;
+}
+.scrollBar::-webkit-scrollbar-thumb {
+  background: rgba(136, 136, 136, 0.452);
+  border-radius: 16px;
+}
+.scrollBar::-webkit-scrollbar {
+  width: 15px;
+}
